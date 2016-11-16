@@ -1,0 +1,100 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 06.07.2016 21:43:25
+
+newmtl 02___Default
+	Ns 18.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.513000 0.513000 0.513000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Map__18_Falloff.jpg
+	map_Kd maps\Map__18_Falloff.jpg
+
+newmtl Material__22
+	Ns 26.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588235 0.588235 0.588235
+	Kd 0.588235 0.588235 0.588235
+	Ks 0.108000 0.108000 0.108000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Map__21_Falloff.jpg
+	map_Kd maps\Map__21_Falloff.jpg
+
+newmtl Material__24
+	Ns 37.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.495000 0.495000 0.495000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Map__17_Falloff.jpg
+	map_Kd maps\Map__17_Falloff.jpg
+
+newmtl Material__23
+	Ns 29.999998
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 1.000000 1.000000 1.000000
+	Kd 1.000000 1.000000 1.000000
+	Ks 0.549000 0.549000 0.549000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Map__16_Falloff.jpg
+	map_Kd maps\Map__16_Falloff.jpg
+
+newmtl Material__40
+	Ns 37.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.351000 0.351000 0.351000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Map__17_Falloff.jpg
+	map_Kd maps\Map__17_Falloff.jpg
+
+newmtl Material__37
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Map__20_Falloff.jpg
+	map_Kd maps\Map__20_Falloff.jpg
+
+newmtl Material__36
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka maps\Map__19_Falloff.jpg
+	map_Kd maps\Map__19_Falloff.jpg
